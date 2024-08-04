@@ -1,1 +1,1 @@
-# HuffmanTree and HuffmanCode
+# 武汉理工大学数据结构综合实验哈弗曼编码
